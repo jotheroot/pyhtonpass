@@ -1,3 +1,3 @@
-# pyhtonpass
+# pythonpass
 
 Init
